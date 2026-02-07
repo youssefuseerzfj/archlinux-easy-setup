@@ -4,6 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/youssefuseerzfj/archlinux-easy-setup)
 
 One-click setup script for Arch Linux that installs essential packages and configures the system for daily use. Combines the ease of Debian with the freshness of Arch.
 
@@ -40,6 +41,6 @@ One-click setup script for Arch Linux that installs essential packages and confi
 
 ### Method 1: Using `curl` (Recommended)
 ```bash
-curl -L https://raw.githubusercontent.com/yourusername/archlinux-easy-setup/main/setup.sh -o arch-setup.sh
+curl -L https://raw.githubusercontent.com/youssefuseerzfj/archlinux-easy-setup/main/setup.sh -o arch-setup.sh
 chmod +x arch-setup.sh
 ./arch-setup.sh
