@@ -2,6 +2,8 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
 
 One-click setup script for Arch Linux that installs essential packages and configures the system for daily use. Combines the ease of Debian with the freshness of Arch.
 
